@@ -4,7 +4,7 @@ sigasi-csv-build
 Compile VHDL projects from the CSV list of files, exported by Sigasi Pro.
 
 
-Now that Sigasi can export a list of the VHDL files in a project, you can write your own scripts for virtually any EDA tool; compilers, linters or synthesis tools. 
+Now that Sigasi (as off version 2.8) can export a list of the VHDL files in a project, you can write your own scripts for virtually any EDA tool; compilers, linters or synthesis tools. 
 
 Download Sigasi at http://www.sigasi.com 
 There is a free Starter Edition or you can request a one month evaluation license for the Sigasi Pro version.
